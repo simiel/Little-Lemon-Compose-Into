@@ -11,11 +11,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.LittleLemon">
-        <activity
-            android:name=".PreviewScreen2"
-            android:exported="false"
-            android:label="@string/title_activity_preview_screen2"
-            android:theme="@style/Theme.LittleLemon" />
+
         <activity
             android:name=".MainActivity"
             android:exported="true">
